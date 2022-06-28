@@ -1,0 +1,15 @@
+form {
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 3rem;
+    box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.5);
+    padding: 1rem;
+}
+
+.inscription_link {
+    text-decoration: none;
+    margin-left: 60%;
+}
+.title_form {
+    text-align: center;
+}
