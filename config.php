@@ -8,7 +8,7 @@
          */
     try 
     {
-        $bdd = new PDO("mysql:host=localhost;dbname=systauthentification;charset=utf8", "", "");
+        $bdd = new PDO("mysql:host=localhost;dbname=CHANGER_HOST_ICI;charset=utf8", "CHANGER_LOGIN", "CHANGER_PASS");
     }
     catch(PDOException $e)
     {
